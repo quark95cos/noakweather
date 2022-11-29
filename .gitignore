@@ -1,0 +1,7 @@
+#Netbeans
+/nbproject/project.properties
+/nbproject/private
+nbactions.xml
+nb-configuration.xml
+/target/
+/logs/
