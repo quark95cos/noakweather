@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"noakweather"},{"l":"noakweather.noaa_api.common"},{"l":"noakweather.noaa_api.weather"},{"l":"noakweather.noaa_api.wthgroup"},{"l":"noakweather.noaa_api.wthtype"},{"l":"noakweather.service"},{"l":"noakweather.utils"}]
